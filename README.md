@@ -1,7 +1,8 @@
 # sadrak silva sousa
 
-Web Developer
+Backend Web Developer
 
-[<link><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=sadrakss&style=social&url=https%3A%2F%2Ftwitter.com%2Fsadrakss"></link>](https://img.shields.io/twitter/url?label=sadrakss&style=social&url=https%3A%2F%2Ftwitter.com%2Fsadrakss) 
+[![Twitter Badge](https://img.shields.io/badge/-@sadrakss-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sadrakss)](https://twitter.com/sadrakss)
 
-## I just enjoy code .
+[![Linkedin Badge](https://img.shields.io/badge/-sadrakss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sadrakss)](https://www.linkedin.com/in/sadrakss)
+
